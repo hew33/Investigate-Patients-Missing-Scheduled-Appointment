@@ -1,5 +1,5 @@
 # Investigate-Patients-Missing-Scheduled-Appointment
-Analyzing insights on about 110,000 medical appointment records from Brazil, figuring out why patients miss the appointments.
+Analyzing insights on over 110,000 medical appointment records from Brazil, figuring out why patients miss the appointments.
 <br>
 <br>This dataset being investigated is the "No-show appointments" dataset. This dataset collects information from 100k medical appointments in Brazil and is focused on the question of whether or not patients show up for their appointment. Variables include the scheduled date, neighborhood of the hospital, patients' Brasilian welfre enrollment,etc. 
 ## Questions to be answered
